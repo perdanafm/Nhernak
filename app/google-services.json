@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "559342441777",
+    "firebase_url": "https://nhernakdatabase.firebaseio.com",
+    "project_id": "nhernakdatabase",
+    "storage_bucket": "nhernakdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559342441777:android:378bff6f4daf258a",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.nhernak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559342441777-f3errur4bf666t9tg8jvgk5bbscoi91q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.nhernak",
+            "certificate_hash": "bd61ab71ae9cc381f84807faaf5a6e83e7c9d80a"
+          }
+        },
+        {
+          "client_id": "559342441777-jnk77khjkcc31qrbetju2gt21u3cde2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.nhernak",
+            "certificate_hash": "594be4a55d724d4ccbaf2f1fae5996e580a714d7"
+          }
+        },
+        {
+          "client_id": "559342441777-s2aqnp5bbh09j6uog3jtgapcdnrs42hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BOQD74aOU7hg0tr6I62TQ9q92oqVYZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559342441777-s2aqnp5bbh09j6uog3jtgapcdnrs42hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

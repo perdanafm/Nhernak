@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Nhernak</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_article">Article</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="contact_consultant">Contact Consultant</string>
+    <string name="farm_animal">Farm Animal</string>
+    <string name="market_price">Market Price</string>
+    <string name="refresh">Refresh</string>
+    <string name="email_profile">Email : </string>
+    <string name="no_telepon_profile">No. Telp :</string>
+    <string name="alamat_profile">Alamat :</string>
+    <string name="edit">Edit</string>
+    <string name="arrow_right"><![CDATA[>]]></string>
+    <string name="log_out">Log Out</string>
+    <string name="cooming_soon">Cooming Soon</string>
+    <string name="desc">An image that represent an object</string>
+    <string name="imgDesc_animal">An image that represent animal livestock</string>
+    <string name="submenu_contact">Contact Consultant</string>
+    <string name="submenu_farmanimal">Farm Animal</string>
+    <string name="detail_farm">Detail Farm</string>
+    <string name="content_desc">An image for the main of article</string>
+    <string name="imgDesc_consultant">An image that represent the consultant</string>
+    <string name="imgDesc_users">An image that represent peternak</string>
+    <string name="add_article">Add Article</string>
+    <string name="isi_artikel">Isi Artikel</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="body_sapi_limo">Sapi limousin adalah sapi yang pertama kali dikembangkan di
+        Perancis.Sapi limousin merupakan tipe sapi pedaging dengan perototan yang
+        lebih baik dari sapi simmental. Sapi limousin memiliki bulu berwarna coklat tua kecuali di
+        sekitar ambing berwarna putih serta lutut kebawah dan sekitar mata berwarna lebih muda.
+        Bentuk tubuh sapi jenis ini adalah besar, panjang, padat dan kompak.
+        Keunggulan dari sapi jenis ini yaitu pertumbuhan badannya yang sangat cepat</string>
+    <string name="body_garut_sheep">Domba Garut atau Domba Priangan adalah domba yang berasal dari
+        daerah Limbangan Kabupaten Garut. Dalam bahasa latin disebut ovis aries yang merupakan
+        campuran dari perkawinan antara domba lokal dengan domba jenis capstaad dari Afrika Selatan
+        dan domba merino dari Australia. Domba capstaad sudah ada lebih dulu di Garut, sementara
+        domba merino baru didatangkan ke Garut pada abad ke-19. Dari ketiga jenis domba itulah,
+        lahir varietas baru yang kemudian disebut domba Garut. Cara-cara pemeliharaan domba Garut
+        tidak sembarangan. Selain diberi rumput pilihan,
+        domba ini juga sering diberi susu yang dicampur madu. Belum lagi pemeliharaan fisiknya yang
+        harus tetap dijaga bersih dan sehat. Dewasa ini jenis domba Garut justru banyak ditemukan
+        di daerah lain. Bila diadakan acara-acara adu domba atau pasanggiri domba hias,
+        seringkali domba-domba yang berasal dari Garut kalah oleh domba Garut yang dipelihara di luar daerah.</string>
+    <string name="body_chicken_cemani">Ayam Selasih (Cemani ) berasal dari Indonesia yakni
+        pulau Jawa, kata Cemani berasal dari bahasa Jawa kuno dengan arti hitam legam,
+        dimana ayam jenis Ayam Cemani merupakan ayam lokal asli Indonesia, warna hitam legam
+        menyelimuti seluruh bagian tubuh ayam ini, mulai dari jengger, pial, paruh, bola mata,
+        lidah, rongga mulut, bulu, lubang dubur, kaki dan cakar. Yah, semuanya serba hitam.
+        Ayam Cemani menurut cerita merupakan koleksi para raja dan juga keluarga ningrat yang
+        melambangkan kekayaan dan kemakmuran. Konon ayam Cemani asli ini memiliki persentase
+        warna hitam 100 persen dari warna darah, daging dan tulang, tetapi hingga sekarang belum
+        ada fakta 100 persen tentang warna. Kabarnya selama warna hitam yang menyelimuti tubuh luar,
+        lidah dan rongga mulut sudah nampak, dapat dikatakan ayam Cemani murni.
+
+</string>
+
+    <string name="garut_sheep">Garut Sheep</string>
+    <string name="limosin_cow">Limosin Cow</string>
+    <string name="cemani_chicken">Cemani Chicken</string>
+
+    <string name="price_sheep">Price of Garut Sheep</string>
+    <string name="price_chicken">Price of Cemani Chicken</string>
+    <string name="price_cow">Price of Limosin Cow</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="labelView_article">View Article</string>
+    <string name="fill_profile_title">Isi data diri</string>
+    <string name="update">Update</string>
+    <string name="free_price">Free</string>
+    <string name="rupiah">Rp.</string>
+    <string name="login_nhernak">Login Nhernak</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_acc">Do not have Nhernak account ? </string>
+    <string name="click_here">Click here</string>
+    <string name="logo_nhernak">Logo Nhernak</string>
+    <string name="register_with_google">Register With Google</string>
+    <string name="register_nhernak">Register Nhernak</string>
+    <string name="register">Register</string>
+    <string name="click_here_to">Click here to</string>
+    <string name="or">or</string>
+    <string name="facebook_app_id">397957310737484</string>
+    <string name="fb_login_protocol_scheme">fb397957310737484</string>
+    <string name="plus">+</string>
+    <array name="categoryArticle">
+        <item>Sapi</item>
+        <item>Domba</item>
+        <item>Ayam</item>
+    </array>
+    <array name="jenisKelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </array>
+</resources>

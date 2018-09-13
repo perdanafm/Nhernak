@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical"
+        tools:context="org.d3ifcool.nhernak.activity.ViewArticleActivity">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Base.TextAppearance.AppCompat.Large"
+                tools:text="Judul"
+                android:layout_gravity="center"
+                android:id="@+id/articleTitle"
+                android:layout_marginBottom="16dp"
+                />
+        <!--<ImageView-->
+            <!--android:layout_width=""-->
+            <!--android:layout_height="" />-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/articleBody"
+                tools:text="this is the thing that never come down to
+                my existence, so i would like to tell 0000you about something"/>
+
+    </LinearLayout>
+</ScrollView>
